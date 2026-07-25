@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mark Lynd</h1>
 
 <p align="center">
-  <strong>Applied AI Architect - Forward-Deployed for AI and Cybersecurity</strong><br>
+  <strong>Executive-Level Forward-Deployed Engineer for AI and Cybersecurity</strong><br>
   5x CEO/CIO/CISO - Head of Executive Advisory and Strategy at <a href="https://netsync.com">Netsync</a><br>
   <a href="https://marklynd.com">marklynd.com</a> - <a href="https://hypechecknow.com">Hype Check Now</a> - <a href="https://hypechecklive.com">Hype Check Live</a>
 </p>
