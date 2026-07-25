@@ -22,13 +22,13 @@ Builder enough to ship. Senior enough to sit with a board and say what is true, 
 
 | Project | What it is |
 |---|---|
-| [**mcp-ai-governance**](https://github.com/cybervizer/mcp-ai-governance) | MCP server exposing AI governance as callable tools. Maps 180 controls across NIST AI RMF, ISO/IEC 42001, and the EU AI Act; scores organizational readiness; classifies EU AI Act risk tiers; generates remediation roadmaps. Ships with an eval harness (hit@1 0.82, MRR 0.89) and 215 tests. |
-| [**mcp-approvals**](https://github.com/cybervizer/mcp-approvals) | MCP server implementing a human-in-the-loop approval gate for agents. An agent cannot take a consequential action without a human decision, and every decision lands in a tamper-evident, hash-chained audit log. 153 tests. |
-| [**ai-security-reading-list**](https://github.com/cybervizer/ai-security-reading-list) | Curated AI security reading list for CISOs and boards. |
+| [**mcp-ai-governance**](https://github.com/marklynd/mcp-ai-governance) | MCP server exposing AI governance as callable tools. Maps 180 controls across NIST AI RMF, ISO/IEC 42001, and the EU AI Act; scores organizational readiness; classifies EU AI Act risk tiers; generates remediation roadmaps. Ships with an eval harness (hit@1 0.82, MRR 0.89) and 215 tests. |
+| [**mcp-approvals**](https://github.com/marklynd/mcp-approvals) | MCP server implementing a human-in-the-loop approval gate for agents. An agent cannot take a consequential action without a human decision, and every decision lands in a tamper-evident, hash-chained audit log. 153 tests. |
+| [**ai-security-reading-list**](https://github.com/marklynd/ai-security-reading-list) | Curated AI security reading list for CISOs and boards. |
 
 Both MCP servers are Python, typed, tested, and MIT licensed.
 
-**Resume:** [Mark-Lynd-Resume.docx](https://github.com/cybervizer/cybervizer/raw/main/Mark-Lynd-Resume.docx)
+**Resume:** [Mark-Lynd-Resume.docx](https://github.com/marklynd/marklynd/raw/main/Mark-Lynd-Resume.docx)
 
 ---
 
