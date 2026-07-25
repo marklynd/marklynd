@@ -40,9 +40,10 @@ Both MCP servers are Python, typed, tested, and MIT licensed.
 
 - **5x CEO / CIO / CISO** across global organizations
 - **Executive advisory** to CIOs, CISOs, Chief AI Officers, boards, and leadership teams across public sector, commercial, and enterprise organizations
+- **600+ projects, keynotes, panels and workshops** facilitated
 - **150+ executive incident response tabletop exercises** facilitated
 - **CISSP, ISSAP, ISSMP** held continuously for 20+ years
-- **3 books** on cybersecurity, cyber insurance, and security for the next generation, with a fourth in 2026
+- **3 books** on cybersecurity, cyber insurance, and AI & security for the next generation, with a fourth book coming in 2026
 - **US Army veteran** - 3rd Ranger Battalion, 75th Ranger Regiment, and 2nd Battalion 325th Airborne Infantry Regiment (82nd Airborne Division)
 
 ---
