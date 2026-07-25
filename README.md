@@ -10,13 +10,13 @@
 
 ## What I Do
 
-I work forward-deployed. I embed with a customer C-suite or board, learn the real problem where it lives, assess where they actually stand, and stay until the decision ships.
+I work forward-deployed, effectively an Executive Forward Deployed Engineer (FDE) for AI and cybersecurity. I was doing this job, embedded with the C-suite and boards, long before anyone called it FDE or Applied AI Architect or Cyber Engineer. On the frontline of a customer's hardest AI and cybersecurity decisions, I turn each into a call they can act on this week. Not a research summary. Not a vendor pitch. Whether the job is shipping AI into production safely or getting ahead of the next attack, I bring the one decision that moves risk, cost, or advantage. I work closely with a customer's C-suite, Leadership, Management, and/or board, learn the real problem where it lives, assess where they actually stand, and stay until the decision ships.
 
 And I build. I design and run production AI systems myself, using agent loops, tool use, guardrails, evaluations, and retrieval, wired to live payment and data infrastructure. 
 
 Builder enough to ship. Senior enough to sit with a board and say what is true, including when the answer is to wait.
 
-Also, I work on cybersecurity problems and postures for our commercial, enterprise and public sectors clients. I do this in many ways and forms including advising, speaking, workshops and tabeltops. 
+Also, I work on cybersecurity problems and postures for our commercial, enterprise and public sectors clients. More often than not now it involves AI as well. I do this in many ways and forms including advising, speaking, workshops and tabeltops. 
 
 As a 5-time CEO/CIO/CISO I understand how the customer thinks and operates giving me an advantage in being able to help them.
 
