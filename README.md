@@ -1,22 +1,45 @@
 <h1 align="center">Hi, I'm Mark Lynd</h1>
 
 <p align="center">
-  <strong>5x CIO/CISO - Head of Executive Advisory and Strategy at <a href="https://netsync.com">Netsync</a></strong><br>
-  AI and Cybersecurity Keynote Speaker - Thinkers360 Top 10 globally across 5 disciplines<br>
-  <a href="https://marklynd.com">marklynd.com</a> - <a href="https://cybervizer.com">Cybervizer Newsletter</a> - <a href="https://aibursts.com">AI Bursts</a>
+  <strong>Applied AI Architect - Forward-Deployed for AI and Cybersecurity</strong><br>
+  5x CEO/CIO/CISO - Head of Executive Advisory and Strategy at <a href="https://netsync.com">Netsync</a><br>
+  <a href="https://marklynd.com">marklynd.com</a> - <a href="https://hypechecknow.com">Hype Check Now</a> - <a href="https://hypechecklive.com">Hype Check Live</a>
 </p>
 
 ---
 
 ## What I Do
 
-I am a frontline AI and cybersecurity practitioner. I keynote, advise Fortune 500 C-suites and boards, and run live incident-response tabletop exercises every week. Audiences hire me because I am not a retrospective speaker. I am in those rooms, with those decisions, in this quarter.
+I work forward-deployed. I embed with a customer C-suite or board, learn the real problem where it lives, assess where they actually stand, and stay until the decision ships.
 
-- **100+ keynotes** at RSA Conference, Oracle CloudWorld, Dell Technologies World, IBM Think, Cisco Partner Summit, Gartner Security and Risk
-- **150+ executive tabletop exercises** facilitated across SLED, Commercial, and Enterprise
-- **3 books** on cybersecurity, cyber insurance, and security for the next generation
+And I build. I design and run production AI systems myself, using agent loops, tool use, guardrails, evaluations, and retrieval, wired to live payment and data infrastructure.
+
+Builder enough to ship. Senior enough to sit with a board and say what is true, including when the answer is to wait.
+
+---
+
+## What I Have Shipped Here
+
+| Project | What it is |
+|---|---|
+| [**mcp-ai-governance**](https://github.com/cybervizer/mcp-ai-governance) | MCP server exposing AI governance as callable tools. Maps 180 controls across NIST AI RMF, ISO/IEC 42001, and the EU AI Act; scores organizational readiness; classifies EU AI Act risk tiers; generates remediation roadmaps. Ships with an eval harness (hit@1 0.82, MRR 0.89) and 215 tests. |
+| [**mcp-approvals**](https://github.com/cybervizer/mcp-approvals) | MCP server implementing a human-in-the-loop approval gate for agents. An agent cannot take a consequential action without a human decision, and every decision lands in a tamper-evident, hash-chained audit log. 153 tests. |
+| [**ai-security-reading-list**](https://github.com/cybervizer/ai-security-reading-list) | Curated AI security reading list for CISOs and boards. |
+
+Both MCP servers are Python, typed, tested, and MIT licensed.
+
+**Resume:** [Mark-Lynd-Resume.docx](https://github.com/cybervizer/cybervizer/raw/main/Mark-Lynd-Resume.docx)
+
+---
+
+## Background
+
 - **5x CEO / CIO / CISO** across global organizations
-- **US Army veteran** - 3rd Ranger Battalion, 2nd Battalion 325th Airborne Infantry Regiment (82nd Airborne Division)
+- **Executive advisory** to CIOs, CISOs, Chief AI Officers, boards, and leadership teams across public sector, commercial, and enterprise organizations
+- **150+ executive incident response tabletop exercises** facilitated
+- **CISSP, ISSAP, ISSMP** held continuously for 20+ years
+- **3 books** on cybersecurity, cyber insurance, and security for the next generation, with a fourth in 2026
+- **US Army veteran** - 3rd Ranger Battalion, 75th Ranger Regiment, and 2nd Battalion 325th Airborne Infantry Regiment (82nd Airborne Division)
 
 ---
 
@@ -34,85 +57,33 @@ I am a frontline AI and cybersecurity practitioner. I keynote, advise Fortune 50
 
 ---
 
-## Topics I Speak On
+## What I Work On
 
 **Artificial Intelligence**
-- Responsible AI and AI Governance
-- LLM Security and Agentic AI Risk
-- AI Strategy for the Enterprise
-- Shadow AI and Copilot Security
-- AI Infrastructure (the part most CFOs miss)
+- Agentic AI in production, with guardrails, evaluations, and human-in-the-loop control
+- AI governance and accountability (NIST AI RMF, ISO/IEC 42001, EU AI Act)
+- Moving AI out of pilots and into governed production
+- AI readiness assessments and audits
 
 **Cybersecurity**
-- The 72-Hour IR Executive Playbook (my framework, used in boardrooms)
-- Ransomware Response and Cyber Insurance
-- Zero Trust Architecture
-- Cybersecurity Governance for Boards
-- CISO Strategy and Leadership
-
-**Operational Technology**
-- OT and ICS Security
-- Critical Infrastructure Cybersecurity
-- IT and OT Convergence
-- NERC CIP, IEC 62443, NIST SP 800-82
-
-**Verticals I cover deeply:** K-12 and Higher Education, Government and Public Sector, Healthcare, Financial Services, Manufacturing, Energy.
+- Executive incident response and crisis decision-making
+- Security assessments and audits (NIST CSF, ISO 27001, SOC 2, MITRE ATT&CK)
+- Board-level cyber risk and disclosure readiness
+- Cyber resilience for critical infrastructure
 
 ---
 
-## Books
+## Writing
 
-- **[A Leader's Playbook for Cyber Insurance](https://www.amazon.com/dp/B0G2HTX729)** - what executives actually need to know before, during, and after a renewal
-- **[Cyber War](https://www.amazon.com/dp/B0FB1C2LMQ)** - frontline lessons from real incidents
-- **[Cybersecurity Life Skills for Teens](https://www.amazon.com/dp/B0C36LJJF7)** - the book my own kids needed
+I publish two evidence-first newsletters on AI and cybersecurity, read by thousands of leaders and practitioners.
 
----
-
-## Frameworks I Am Known For
-
-These are mine, used in keynotes and advisory work every week:
-
-1. **The 72-Hour IR Executive Playbook** - what leadership decides in the first three days
-2. **The Cyber Insurance Readiness Score** - what makes carriers actually price your risk down
-3. **The Enterprise AI Trust Score** - five dimensions boards should be scoring AI on
-4. **The AI Board Briefing Triangle** - Strategic Bets, Risk Surface, Adoption Velocity
-5. **The Agentic AI Security Framework** - for the workloads no one is watching yet
-
-[Full frameworks page](https://marklynd.com/frameworks/)
-
----
-
-## Featured In
-
-TechTarget, Dell Technologies, CSO Online, CIO Magazine, InformationWeek, NetworkWorld, The Wall Street Journal, Oracle, GRC Outlook, Clutch.co (Top 15 B2B Tech Influencers 2025), CISO Platform (Top 50 CISOs).
-
----
-
-## Connect
-
-- **Website:** [marklynd.com](https://marklynd.com)
-- **LinkedIn:** [linkedin.com/in/marklynd](https://www.linkedin.com/in/marklynd/)
-- **X / Twitter:** [@mclynd](https://x.com/mclynd)
-- **YouTube:** [@markclynd](https://www.youtube.com/@markclynd)
-- **Substack:** [substack.com/@marklynd](https://substack.com/@marklynd)
-- **Wikidata:** [Q139329513](https://www.wikidata.org/wiki/Q139329513)
-
----
-
-## Currently Open To
-
-- **Keynote bookings** for 2026 and 2027 - AI, cybersecurity, OT, board-level talks - [Book Mark](https://marklynd.com/contact?type=speaking)
-- **Brand partnerships** with technology companies whose CISOs and CIOs are in my audience - [Partnership inquiries](https://marklynd.com/partnerships)
-- **Advisory engagements** with Fortune 500 boards on AI governance and incident response
-- **Educator partnerships** with K-12 districts and higher ed institutions on AI literacy and cybersecurity
+- **[Hype Check Now](https://hypechecknow.com)** - twice a week. One loud AI or cybersecurity claim, checked against the data, turned into a decision for CIOs, CISOs, and boards.
+- **[Hype Check Live](https://hypechecklive.com)** - three times a week. The broad sister publication. Nonpartisan, real facts only.
 
 ---
 
 <p align="center">
-  <em>"The biggest cybersecurity risk in most companies isn't a tool gap. It's that the people who actually make the decisions during an incident have never met before the incident."</em><br>
-  - Mark Lynd
-</p>
-
-<p align="center">
-  <a href="https://marklynd.com/quotes/">More citation-ready quotes</a>
+  <a href="https://marklynd.com">marklynd.com</a> -
+  <a href="https://www.linkedin.com/in/marklynd/">LinkedIn</a> -
+  <a href="https://x.com/mclynd">X</a>
 </p>
