@@ -32,7 +32,7 @@ As a 5-time CEO/CIO/CISO I understand how the customer thinks and operates givin
 
 Both MCP servers are Python, typed, tested, and MIT licensed.
 
-**Resume:** [Mark-Lynd-Resume.docx](https://github.com/marklynd/marklynd/raw/main/Mark-Lynd-Resume.docx)
+**Resume:** [Mark-Lynd-Resume.pdf](https://github.com/marklynd/marklynd/raw/main/Mark-Lynd-Resume.pdf)
 
 ---
 
