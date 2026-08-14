@@ -43,6 +43,8 @@ Both MCP servers are Python, typed, tested, and MIT licensed.
 - **600+ projects, keynotes, panels and workshops** facilitated
 - **150+ executive incident response tabletop exercises** facilitated
 - **CISSP, ISSAP, ISSMP** held continuously for 20+ years
+- **Assessments and Audits** I run hands-on AI and cybersecurity assessments and audits, then turn the findings into a plan leaders can act on.
+- **Applied AI** I built and sold to an IBM Partner an AI expert system in Prolog and LISP while in college. As Chief Product Officer, my team and I shipped multiple commercial versions of software with and using neural networks, machine learning and genetic algorithms in production at FireScope from 2006 - 2014. I served on the IBM Watson Thought Leadership Council and did deep learning engagements using Watson Studio. I coded and made the architecture calls, and cleaned and loaded the data.
 - **3 books** on cybersecurity, cyber insurance, and AI & security for the next generation, with a fourth book coming in 2026
 - **US Army veteran** - 3rd Ranger Battalion, 75th Ranger Regiment, and 2nd Battalion 325th Airborne Infantry Regiment (82nd Airborne Division)
 
