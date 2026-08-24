@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Executive-Level Forward-Deployed Engineer for AI and Cybersecurity</strong><br>
   5x CEO/CIO/CISO - Head of Executive Advisory and Strategy at <a href="https://netsync.com">Netsync</a><br>
-  <a href="https://marklynd.com">marklynd.com</a> - <a href="https://hypechecknow.com">Hype Check Now</a> - <a href="https://hypechecklive.com">Hype Check Live</a>
+  <a href="https://marklynd.com">marklynd.com</a> - <a href="https://thehypeindex.com">The Hype Index</a>
 </p>
 
 ---
@@ -82,10 +82,15 @@ Both MCP servers are Python, typed, tested, and MIT licensed.
 
 ## Writing
 
-I publish two evidence-first newsletters on AI and cybersecurity, read by thousands of leaders and practitioners.
+**Books**
 
-- **[Hype Check Now](https://hypechecknow.com)** - twice a week. One loud AI or cybersecurity claim, checked against the data, turned into a decision for CIOs, CISOs, and boards.
-- **[Hype Check Live](https://hypechecklive.com)** - three times a week. The broad sister publication. Nonpartisan, real facts only.
+- **[Cyber War: One Scenario](https://www.amazon.com/Cyber-War-Scenario-Mark-Lynd-ebook/dp/B0FB1C2LMQ)** - Amazon bestseller. A scenario-based account of a coordinated cyberattack on American infrastructure, written to make the consequences tangible for business leaders and policy makers.
+- **[A Leader's Playbook for Cyber Insurance, Second Edition](https://www.amazon.com/Leaders-Playbook-Cyber-Insurance-Second-ebook/dp/B0G2HTX729/)** - The executive field manual for cyber insurance, written from the policyholder side. Coverage mechanics, exclusions that deny claims, renewal negotiation, and claim preparation.
+- **[Cybersecurity Life Skills for Teens](https://www.amazon.com/Cybersecurity-Life-Skills-Teens-cybersecurity-ebook/dp/B0C36LJJF7/)** - The cybersecurity skills that matter most in daily life, written for teens and adopted by educators and CTE programs nationwide.
+
+**Newsletter**
+
+- **[The Hype Index](https://thehypeindex.com)** - the consolidation of Hype Check Now and Hype Check Live. One public AI or cybersecurity claim per edition, scored 0 to 100 against the evidence, with a dated call graded in public. Tuesdays and Thursdays, free. The full 226-edition archive is at [thehypeindex.com/archive](https://thehypeindex.com/archive).
 
 ---
 
