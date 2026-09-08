@@ -16,7 +16,7 @@ And I build. I design and run production AI systems myself, using agent loops, t
 
 Builder enough to ship. Senior enough to sit with a board and say what is true, including when the answer is to wait.
 
-NVIDIA Certified - AI Ignite
+NVIDIA Certified - AI Ignite, ISC2 Certified - CISSP, ISSAP, & ISSMP
 
 Also, I work on cybersecurity problems and postures for our commercial, enterprise and public sectors clients. More often than not now it involves AI as well. I do this in many ways and forms including advising, speaking, workshops and tabeltops. 
 
