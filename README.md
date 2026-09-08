@@ -16,6 +16,8 @@ And I build. I design and run production AI systems myself, using agent loops, t
 
 Builder enough to ship. Senior enough to sit with a board and say what is true, including when the answer is to wait.
 
+NVIDIA Certified - AI Ignite
+
 Also, I work on cybersecurity problems and postures for our commercial, enterprise and public sectors clients. More often than not now it involves AI as well. I do this in many ways and forms including advising, speaking, workshops and tabeltops. 
 
 As a 5-time CEO/CIO/CISO I understand how the customer thinks and operates giving me an advantage in being able to help them.
