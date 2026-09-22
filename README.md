@@ -54,7 +54,7 @@ Both MCP servers are Python, typed, tested, and MIT licensed.
 - **NVIDIA AI Ignite** issued September 2026 ([see LinkedIn credentials](https://www.linkedin.com/in/marklynd/details/certifications/))
 - **Assessments and Audits** I run hands-on AI and cybersecurity assessments and audits, then turn the findings into a plan leaders can act on.
 - **Applied AI** I built and sold to an IBM Partner an AI expert system in Prolog and LISP while in college. As Chief Product Officer, my team and I shipped multiple commercial versions of software with and using neural networks, machine learning and genetic algorithms in production at FireScope from 2006 - 2014. I served on the IBM Watson Thought Leadership Council and did deep learning engagements using Watson Studio. I coded and made the architecture calls, and cleaned and loaded the data.
-- **3 books** on cybersecurity, cyber insurance, and AI & security for the next generation, with a fourth book coming in 2026
+- **Books:** Three published titles on cybersecurity, cyber insurance, and digital safety for teens; *Think Bigger. Spend Once.*, on AI strategy and governance, is in pre-release
 - **US Army veteran** - 3rd Ranger Battalion, 75th Ranger Regiment, and 2nd Battalion 325th Airborne Infantry Regiment (82nd Airborne Division)
 
 ---
@@ -93,6 +93,7 @@ Both MCP servers are Python, typed, tested, and MIT licensed.
 
 **Books**
 
+- **[Think Bigger. Spend Once.](https://marklynd.com/books/)** - Pre-release. An executive guide to AI investment decisions, human authority, responsible AI, and governance that survives a change of model.
 - **[Cyber War: One Scenario](https://www.amazon.com/Cyber-War-Scenario-Mark-Lynd-ebook/dp/B0FB1C2LMQ)** - Amazon bestseller. A scenario-based account of a coordinated cyberattack on American infrastructure, written to make the consequences tangible for business leaders and policy makers.
 - **[A Leader's Playbook for Cyber Insurance, Second Edition](https://www.amazon.com/Leaders-Playbook-Cyber-Insurance-Second-ebook/dp/B0G2HTX729/)** - The executive field manual for cyber insurance, written from the policyholder side. Coverage mechanics, exclusions that deny claims, renewal negotiation, and claim preparation.
 - **[Cybersecurity Life Skills for Teens](https://www.amazon.com/Cybersecurity-Life-Skills-Teens-cybersecurity-ebook/dp/B0C36LJJF7/)** - The cybersecurity skills that matter most in daily life, written for teens and adopted by educators and CTE programs nationwide.
