@@ -8,11 +8,26 @@
 
 ---
 
+## What I Have Shipped Here
+
+| Project | What it is |
+|---|---|
+| [**mcp-ai-governance**](https://github.com/marklynd/mcp-ai-governance) | MCP server exposing AI governance as callable tools. Maps 180 controls across NIST AI RMF, ISO/IEC 42001, and the EU AI Act; scores organizational readiness; classifies EU AI Act risk tiers; generates remediation roadmaps. Ships with an eval harness (hit@1 0.82, MRR 0.89) and 215 tests. |
+| [**mcp-approvals**](https://github.com/marklynd/mcp-approvals) | MCP server implementing a human-in-the-loop approval gate for agents. An agent cannot take a consequential action without a human decision, and every decision lands in a tamper-evident, hash-chained audit log. 153 tests. |
+| [**quorum**](https://github.com/marklynd/quorum) | Scores claims against a supplied rubric and evidence using multiple language models, with preserved transcripts and visible disagreement. |
+| [**ai-security-reading-list**](https://github.com/marklynd/ai-security-reading-list) | Curated AI security reading list for CISOs and boards. |
+
+**Try the work:** [run the AI governance smoke test](https://github.com/marklynd/mcp-ai-governance/blob/main/examples/smoke_test.py), [walk through an agent approval](https://github.com/marklynd/mcp-approvals/blob/main/examples/smoke_test.py), or [score a claim with Quorum](https://github.com/marklynd/quorum#quorum). Each repository explains setup and limits.
+
+Follow this profile for practical AI governance, agent safety, and cybersecurity tools. For executive briefings or speaking inquiries, [contact me through marklynd.com](https://marklynd.com/contact/).
+
+---
+
 ## What I Do
 
 I work forward-deployed, effectively an Executive Forward Deployed Engineer (FDE) for AI and cybersecurity. I was doing this job, embedded with the C-suite and boards, long before anyone called it FDE or Applied AI Architect or Cyber Engineer. On the frontline of a customer's hardest AI and cybersecurity decisions, I turn each into a call they can act on this week. Not a research summary. Not a vendor pitch. Whether the job is shipping AI into production safely or getting ahead of the next attack, I bring the one decision that moves risk, cost, or advantage. I work closely with a customer's C-suite, Leadership, Management, and/or board, learn the real problem where it lives, assess where they actually stand, and stay until the decision ships.
 
-And I build. I design and run production AI systems myself, using agent loops, tool use, guardrails, evaluations, and retrieval, wired to live payment and data infrastructure. 
+And I build. I design and run production AI systems myself, using agent loops, tool use, guardrails, evaluations, and retrieval, wired to live payment and data infrastructure.
 
 Builder enough to ship. Senior enough to sit with a board and say what is true, including when the answer is to wait.
 
@@ -23,21 +38,9 @@ Credentials: [NVIDIA AI Advisor - Technical Sales](https://www.credly.com/badges
   <td align="center" valign="middle" bgcolor="#ffffff" width="110" height="110"><a href="https://www.linkedin.com/in/marklynd/details/certifications/"><img src="assets/nvidia-ai-ignite.png" alt="NVIDIA AI Ignite badge" width="110" height="110"></a></td>
 </tr></table>
 
-Also, I work on cybersecurity problems and postures for our commercial, enterprise and public sectors clients. More often than not now it involves AI as well. I do this in many ways and forms including advising, speaking, workshops and tabeltops. 
+Also, I work on cybersecurity problems and postures for our commercial, enterprise and public sectors clients. More often than not now it involves AI as well. I do this in many ways and forms including advising, speaking, workshops and tabeltops.
 
 As a 5-time CEO/CIO/CISO I understand how the customer thinks and operates giving me an advantage in being able to help them.
-
----
-
-## What I Have Shipped Here
-
-| Project | What it is |
-|---|---|
-| [**mcp-ai-governance**](https://github.com/marklynd/mcp-ai-governance) | MCP server exposing AI governance as callable tools. Maps 180 controls across NIST AI RMF, ISO/IEC 42001, and the EU AI Act; scores organizational readiness; classifies EU AI Act risk tiers; generates remediation roadmaps. Ships with an eval harness (hit@1 0.82, MRR 0.89) and 215 tests. |
-| [**mcp-approvals**](https://github.com/marklynd/mcp-approvals) | MCP server implementing a human-in-the-loop approval gate for agents. An agent cannot take a consequential action without a human decision, and every decision lands in a tamper-evident, hash-chained audit log. 153 tests. |
-| [**ai-security-reading-list**](https://github.com/marklynd/ai-security-reading-list) | Curated AI security reading list for CISOs and boards. |
-
-Both MCP servers are Python, typed, tested, and MIT licensed.
 
 **Resume:** [Mark-Lynd-Resume.pdf](https://github.com/marklynd/marklynd/raw/main/Mark-Lynd-Resume.pdf)
 
