@@ -19,7 +19,7 @@ Builder enough to ship. Senior enough to sit with a board and say what is true, 
 Credentials: [NVIDIA AI Advisor - Technical Sales](https://www.credly.com/badges/0997c3ed-359b-492b-bdeb-d221b607c237) and [NVIDIA AI Ignite](https://www.linkedin.com/in/marklynd/details/certifications/) (both issued September 2026); ISC2 CISSP, ISSAP, and ISSMP.
 
 <p>
-  <a href="https://www.credly.com/badges/0997c3ed-359b-492b-bdeb-d221b607c237"><img src="assets/nvidia-ai-advisor-technical-sales.jpeg" alt="NVIDIA AI Advisor - Technical Sales badge" width="110" height="110"></a>
+  <a href="https://www.credly.com/badges/0997c3ed-359b-492b-bdeb-d221b607c237"><img src="assets/nvidia-ai-advisor-technical-sales.png" alt="NVIDIA AI Advisor - Technical Sales badge" width="110" height="110"></a>
   <a href="https://www.linkedin.com/in/marklynd/details/certifications/"><img src="assets/nvidia-ai-ignite.png" alt="NVIDIA AI Ignite badge" width="110" height="110"></a>
 </p>
 
