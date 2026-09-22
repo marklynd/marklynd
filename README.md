@@ -16,7 +16,7 @@ And I build. I design and run production AI systems myself, using agent loops, t
 
 Builder enough to ship. Senior enough to sit with a board and say what is true, including when the answer is to wait.
 
-NVIDIA Certified - AI Ignite, ISC2 Certified - CISSP, ISSAP, & ISSMP
+Credentials: [NVIDIA AI Advisor - Technical Sales](https://www.credly.com/badges/0997c3ed-359b-492b-bdeb-d221b607c237) and [NVIDIA AI Ignite](https://www.linkedin.com/in/marklynd/details/certifications/) (both issued September 2026); ISC2 CISSP, ISSAP, and ISSMP.
 
 Also, I work on cybersecurity problems and postures for our commercial, enterprise and public sectors clients. More often than not now it involves AI as well. I do this in many ways and forms including advising, speaking, workshops and tabeltops. 
 
@@ -45,6 +45,8 @@ Both MCP servers are Python, typed, tested, and MIT licensed.
 - **600+ projects, keynotes, panels and workshops** facilitated
 - **150+ executive incident response tabletop exercises** facilitated
 - **CISSP, ISSAP, ISSMP** held continuously for 20+ years
+- **NVIDIA AI Advisor - Technical Sales** issued September 2026, expires September 2028 ([verify credential](https://www.credly.com/badges/0997c3ed-359b-492b-bdeb-d221b607c237))
+- **NVIDIA AI Ignite** issued September 2026 ([see LinkedIn credentials](https://www.linkedin.com/in/marklynd/details/certifications/))
 - **Assessments and Audits** I run hands-on AI and cybersecurity assessments and audits, then turn the findings into a plan leaders can act on.
 - **Applied AI** I built and sold to an IBM Partner an AI expert system in Prolog and LISP while in college. As Chief Product Officer, my team and I shipped multiple commercial versions of software with and using neural networks, machine learning and genetic algorithms in production at FireScope from 2006 - 2014. I served on the IBM Watson Thought Leadership Council and did deep learning engagements using Watson Studio. I coded and made the architecture calls, and cleaned and loaded the data.
 - **3 books** on cybersecurity, cyber insurance, and AI & security for the next generation, with a fourth book coming in 2026
